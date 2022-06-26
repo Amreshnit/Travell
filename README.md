@@ -2,10 +2,10 @@
  ## Hand code travel blog Website, Designed and Developed by Amresh Kumar 
  
 
-[img1](https://res.cloudinary.com/mcaprojectnitjsr/image/upload/v1656264869/travel/tr3_qnz68d.png).
-[img2](https://res.cloudinary.com/mcaprojectnitjsr/image/upload/v1656264870/travel/tr4_z3xzpd.png).
-[img3](https://res.cloudinary.com/mcaprojectnitjsr/image/upload/v1656264869/travel/travel2_byt7zx.png).
-[img4](https://res.cloudinary.com/mcaprojectnitjsr/image/upload/v1656264869/travel/travel2_byt7zx.png).
+![img1](https://res.cloudinary.com/mcaprojectnitjsr/image/upload/v1656264869/travel/tr3_qnz68d.png).
+![img2](https://res.cloudinary.com/mcaprojectnitjsr/image/upload/v1656264870/travel/tr4_z3xzpd.png).
+![img3](https://res.cloudinary.com/mcaprojectnitjsr/image/upload/v1656264869/travel/travel2_byt7zx.png).
+![img4](https://res.cloudinary.com/mcaprojectnitjsr/image/upload/v1656264869/travel/travel2_byt7zx.png).
  
  **TECHNOLOGY USED**
  1. ***FRONT END-*** 
